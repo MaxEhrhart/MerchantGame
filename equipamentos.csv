@@ -1,0 +1,528 @@
+ITEM;MATERIAIS
+Iron Ingot;2x Iron Ore
+Iron Dagger;1x Iron Ingot
+Iron Sword;1x Iron Ingot|1x Iron Ore
+Iron Knife;1x Iron Ingot
+Iron Hatchet;1x Iron Ingot|1x Ashe Log
+Iron Longsword;1x Iron Ingot|1x Iron Ore
+Ashe Lumber;2x Ashe Log
+Ashe Wand;1x Ashe Lumber
+Ashe Club;1x Ashe Lumber|1x Iron Ore
+Ashe Mystic Wand;1x Ashe Lumber
+Ashe Stave;1x Ashe Lumber|1x Ashe Log
+Ashe Cudgel;1x Ashe Lumber|1x Iron Ore
+Emerald;4x Forest Crystal
+Spider Earring;1x Iron Ingot|2x Hempen Thread|4x Spider Leg|1x Emerald
+Snake Ring;1x Iron Ingot|1x Iron Chunk|4x Snake Fang|1x Emerald
+Boar Medallion;1x Ashe Lumber|1x Ashe Log|4x Boar Tusk|1x Emerald
+Iron Sheet;2x Iron Chunk
+Iron Bracers;1x Iron Sheet
+Iron Greaves;1x Iron Sheet
+Iron Helm;1x Iron Sheet|1x Iron Chunk
+Iron Chainmail;1x Iron Sheet|1x Hempen Thread
+Iron Gauntlets;1x Iron Sheet
+Iron Sabatons;1x Iron Sheet
+Boar Greaves;1x Iron Sheet|2x Boar Fur
+Boar Bracers;1x Iron Sheet|2x Boar Fur
+Scale Greaves;1x Iron Sheet|2x Snake Scale
+Scale Bracers;1x Iron Sheet|2x Snake Scale
+Iron Great Helm;1x Iron Sheet|1x Iron Chunk
+Goblin Sabatons;1x Iron Sheet|1x Iron Chunk|2x Goblin Plate
+Goblin Gauntlets;1x Iron Sheet|1x Iron Chunk|2x Goblin Plate
+Boar Helm;1x Iron Sheet|1x Iron Chunk|3x Boar Fur
+Iron Platemail;1x Iron Sheet|1x Iron Chunk
+Hogger's Bracers;1x Iron Sheet|1x Iron Chunk|3x Boar Fur|1x Hogger's Fur
+Goblin Great Helm;1x Iron Sheet|2x Iron Chunk|2x Goblin Plate
+Boar Chainmail;1x Iron Sheet|1x Hempen Thread|3x Boar Fur
+Enchanted Helm;1x Iron Sheet|2x Iron Chunk|2x Spider Silk|2x Boar Fur
+Goblin Platemail;1x Iron Sheet|2x Hempen Thread|4x Goblin Plate
+Gronok's Platemail;1x Iron Platemail|1x Iron Sheet|5x Goblin Plate|1x Gronok's Plate
+Mithril Sheet;2x Mithril Chunk
+Mithril Gloves;1x Mithril Sheet
+Mithril Greaves;1x Mithril Sheet
+Mithril Helm;1x Mithril Sheet|1x Mithril Chunk
+Mithril Chainmail;1x Mithril Sheet|1x Silk Thread
+Mithril Gauntlets;1x Mithril Sheet
+Mithril Sabatons;1x Mithril Sheet
+Turtle Sabatons;1x Mithril Sheet|3x Turtle Shell
+Turtle Gauntlets;1x Mithril Sheet|3x Turtle Shell
+Mithril Great Helm;1x Mithril Sheet|1x Mithril Chunk
+Turtle Great Helm;1x Mithril Sheet|1x Mithril Chunk|4x Turtle Shell
+Lizard Greaves;1x Mithril Sheet|1x Mithril Chunk|3x Lizard Scale
+Lizard Bracers;1x Mithril Sheet|1x Mithril Chunk|3x Lizard Scale
+Mithril Platemail;1x Mithril Sheet|1x Mithril Chunk
+Turtle Platemail;1x Mithril Sheet|2x Mithril Chunk|5x Turtle Shell|2x Murlok Scale
+Heavy Greaves;1x Mithril Sheet|1x Mithril Chunk|3x Turtle Shell|1x Murlok Scale
+Murlok Helm;1x Mithril Sheet|2x Mithril Chunk|3x Murlok Plate|2x Murlok Scale
+Heavy Bracers;1x Mithril Sheet|1x Mithril Chunk|3x Turtle Shell|1x Murlok Scale
+Silk Cloth;2x Silk Thread
+Silk Gloves;1x Silk Cloth
+Silk Boots;1x Silk Cloth
+Silk Hood;1x Silk Cloth|1x Silk Thread
+Silk Tunic;1x Silk Cloth|1x Mithril Chunk
+Silk Mitts;1x Silk Cloth
+Silk Crakows;1x Silk Cloth
+Silk Hat;1x Silk Cloth|1x Silk Thread
+Murlok Crakows;1x Silk Cloth|3x Murlok Cloth|1x Murlok Scale
+Murlok Mitts;1x Silk Cloth|3x Murlok Cloth|1x Murlok Scale
+Murlok Hat;1x Silk Cloth|1x Silk Thread|1x Murlok Scale|1x Murlok Scale
+Murlok Gloves;1x Silk Cloth|1x Silk Thread|3x Murlok Cloth|1x Murlok Scale
+Murlok Boots;1x Silk Cloth|1x Silk Thread|3x Murlok Cloth|1x Murlok Scale
+Silk Robe;1x Silk Cloth|1x Silk Thread
+Murlok Robe;1x Silk Cloth|2x Silk Thread|5x Murlok Cloth|2x Murlok Scale
+Deadly Boots;1x Silk Cloth|4x Murlok Cloth|4x Lizard Scale|3x Murlok Scale
+Lizard Hood;1x Silk Cloth|2x Silk Thread|4x Lizard Scale
+Deadly Gloves;1x Silk Cloth|4x Murlok Cloth|4x Lizard Scale|3x Murlok Scale
+Lizard Tunic;1x Silk Cloth|1x Mithril Sheet|5x Lizard Scale|2x Murlok Scale
+Leaping Boots;1x Silk Cloth|5x Lizard Scale|3x Murlok Scale|1x Leaping Scale
+Reinforced Tunic;1x Silk Cloth|1x Mithril Sheet|4x Murlok Scale
+Priest's Hat;1x Silk Cloth|5x Murlok Cloth|5x Murlok Scale|1x High Priest's Cloth
+Leviathan's Doublet;1x Reinforced Tunic|10x Murlok Scale|5x Water Crystal|1x Azure Scale
+Kraken's Grips;1x Murlok Mitts|10x Murlok Scale|5x Water Crystal|1x Kraken's Tentacle
+Cashmere Cloth;2x Cashmere Thread
+Cashmere Gloves;1x Cashmere Cloth
+Cashmere Boots;1x Cashmere Cloth
+Cashmere Hood;1x Cashmere Cloth|1x Cashmere Thread
+Cashmere Tunic;1x Cashmere Cloth|1x Adaman Chunk
+Cashmere Mitts;1x Cashmere Cloth
+Cashmere Crakows;1x Cashmere Cloth
+Cashmere Hat;1x Cashmere Cloth|1x Cashmere Thread
+Worm Boots;1x Cashmere Cloth|4x Worm Silk
+Worm Gloves;1x Cashmere Cloth|4x Worm Silk
+Cashmere Robe;1x Cashmere Cloth|1x Cashmere Thread
+Worm Hood;1x Cashmere Cloth|1x Cashmere Thread|5x Worm Silk
+Gnoll Crakows;1x Cashmere Crakows|5x Gnoll Cloth|2x Gnoll Fur
+Gnoll Mitts;1x Cashmere Mitts|5x Gnoll Cloth|2x Gnoll Fur
+Gnoll Gloves;1x Cashmere Gloves|5x Gnoll Cloth|3x Gnoll Fur
+Gnoll Boots;1x Cashmere Boots|5x Gnoll Cloth|3x Gnoll Fur
+Worm Tunic;1x Cashmere Cloth|2x Adaman Chunk|7x Worm Silk
+Gnoll Robe;1x Cashmere Robe|3x Adaman Chunk|7x Gnoll Cloth|4x Gnoll Fur
+Gnoll Hat;1x Cashmere Hat|2x Cashmere Thread|6x Gnoll Cloth|3x Gnoll Fur
+Shaman's Hat;1x Cashmere Hat|5x Gnoll Cloth|5x Gnoll Fur|1x Kaldar's Fur
+Gnoll Hood;1x Cashmere Hood|2x Cashmere Thread|5x Gnoll Cloth|4x Gnoll Fur
+Overlord's Robe;1x Cashmere Robe|6x Gnoll Cloth|6x Gnoll Fur|1x Drahgar's Fur
+Ares' Gloves;1x Cashmere Gloves|7x Ram Fur|1x Ares' Fur
+Kirin's Sune-Ate;1x Gnoll Boots|10x Gnoll Fur|5x Earth Crystal|1x Kirin's Hide
+Kirin's Kote;1x Gnoll Gloves|10x Gnoll Fur|5x Earth Crystal|1x Kirin's Hide
+Necro Cloth;2x Necro Thread
+Necro Gloves;1x Necro Cloth
+Necro Boots;1x Necro Cloth
+Necro Hood;1x Necro Cloth|1x Necro Thread
+Necro Mitts;1x Necro Cloth
+Necro Tunic;1x Necro Cloth|1x Darksteel Chunk
+Necro Crakows;1x Necro Cloth
+Necro Hat;1x Necro Cloth|1x Necro Thread
+Beast Gloves;1x Necro Gloves|3x Beast Fur
+Beast Boots;1x Necro Boots|3x Beast Fur
+Beast Tunic;1x Necro Tunic|2x Darksteel Chunk|5x Beast Fur
+Necro Robe;1x Necro Cloth|1x Necro Thread
+Undead Mitts;1x Necro Mitts|2x Necro Thread|5x Undead Cloth|1x Skeleton Skull
+Undead Crakows;1x Necro Crakows|2x Necro Thread|5x Undead Cloth|1x Skeleton Skull
+Stalker's Hood;1x Necro Hood|7x Beast Fur|4x Skeleton Skull|1x Stalker's Fur
+Beast Hood;1x Necro Hood|2x Necro Thread|4x Beast Fur
+Undead Hat;1x Necro Hat|2x Necro Thread|5x Undead Cloth|2x Skeleton Skull
+Shadow Robe;1x Necro Robe|7x Skeleton Skull|1x Serket's Shell|1x Arthus' Skull
+Altor's Sandals;1x Necro Crakows|8x Undead Cloth|5x Skeleton Skull|1x Altor's Cloth
+Undead Robe;1x Necro Robe|2x Necro Thread|7x Undead Cloth|3x Skeleton Skull
+Hel's Robe;1x Undead Robe|10x Skeleton Skull|5x Necro Crystal|1x Spectral Cloth
+Oni's Mask;1x Beast Hood|10x Skeleton Skull|5x Necro Crystal|1x Oni's Fang
+Magma Cloth;2x Magma Thread
+Magma Crakows;1x Magma Cloth
+Magma Gloves;1x Magma Cloth|2x Magma Thread
+Magma Mitts;1x Magma Cloth
+Magma Boots;1x Magma Cloth|2x Magma Thread
+Magma Hat;1x Magma Cloth
+Magma Hood;1x Magma Cloth|2x Magma Thread
+Dragon Boots;1x Magma Boots|2x Magma Thread|6x Crimson Scale|3x Grimhal Ash
+Dragon Mitts;1x Magma Mitts|6x Crimson Scale|3x Grimhal Ash
+Dragon Gloves;1x Magma Gloves|2x Magma Thread|6x Crimson Scale|3x Grimhal Ash
+Dragon Crakows;1x Magma Crakows|6x Crimson Scale|3x Grimhal Ash
+Dragon Hat;1x Magma Hat|8x Crimson Scale|4x Grimhal Ash
+Dragon Hood;1x Magma Hood|2x Magma Thread|8x Crimson Scale|4x Grimhal Ash
+Magma Robe;1x Magma Cloth|2x Magma Thread
+Magma Tunic;1x Magma Cloth|2x Magma Chunk
+Demon Gloves;1x Magma Gloves|2x Magma Thread|7x Demon Heart|5x Grimhal Ash
+Dragon Robe;1x Magma Robe|10x Crimson Scale|5x Grimhal Ash|1x Crimson Wing
+Demon Boots;1x Magma Boots|2x Magma Thread|7x Demon Heart|5x Grimhal Ash
+Demon Crakows;1x Magma Crakows|2x Magma Thread|6x Demon Heart|3x Demon Fire
+Demon Mitts;1x Magma Mitts|2x Magma Thread|6x Demon Heart|3x Demon Fire
+Dragon Tunic;1x Magma Tunic|10x Crimson Scale|5x Grimhal Ash|1x Crimson Wing
+Demon Hat;1x Magma Hat|2x Magma Thread|8x Demon Heart|4x Demon Fire
+Demon Hood;1x Magma Hood|2x Magma Thread|8x Demon Heart|7x Grimhal Ash
+Inferno Chapeau;1x Dragon Hat|5x Phoenix Feather|3x Phoenix Ash|4x Fire Crystal
+Demon Tunic;1x Magma Tunic|10x Demon Heart|5x Grimhal Ash|3x Fire Crystal
+Demon Robe;1x Magma Robe|5x Demon Heart|5x Demon Heart|3x Fire Crystal
+Hellguard's Veil;1x Demon Hood|7x Cerberus' Fur|5x Cerberus' Fang|5x Grimhal Ash
+Elder Demon Boots;1x Demon Boots|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Gloves;1x Demon Gloves|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Crakows;1x Dragon Crakows|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Mitts;1x Dragon Mitts|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Boots;1x Dragon Boots|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Mitts;1x Demon Mitts|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Crakows;1x Demon Crakows|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Gloves;1x Dragon Gloves|1x Magma Cloth|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Hat;1x Dragon Hat|1x Magma Cloth|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Hood;1x Demon Hood|1x Magma Cloth|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Hat;1x Demon Hat|1x Magma Cloth|6x Black Dragon Scale|4x Fire Crystal
+Black Dragon Hood;1x Dragon Hood|1x Magma Cloth|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Robe;1x Demon Robe|1x Magma Cloth|7x Black Dragon Scale|5x Fire Crystal
+Skorge's Hood;1x Elder Demon Hood|10x Elder Demon Scale|2x Skorge's Scale|9x Fire Crystal
+Elder Demon Tunic;1x Demon Tunic|1x Magma Cloth|7x Black Dragon Scale|5x Fire Crystal
+Arkyos' Robe;1x Elder Demon Robe|12x Elder Demon Scale|3x Arkyos' Wing|10x Fire Crystal
+Fafnir's Boots;1x Black Dragon Boots|10x Black Dragon Scale|2x Fafnir's Wing|8x Fire Crystal
+Arkyos' Mitts;1x Elder Demon Mitts|10x Elder Demon Scale|2x Arkyos' Wing|8x Fire Crystal
+Black Dragon Robe;1x Dragon Robe|1x Magma Cloth|7x Black Dragon Scale|5x Fire Crystal
+Black Dragon Tunic;1x Dragon Tunic|1x Magma Cloth|7x Black Dragon Scale|5x Fire Crystal
+Murlok Chainmail;1x Mithril Sheet|1x Silk Cloth|4x Murlok Plate|3x Murlok Scale
+Assault Helm;1x Mithril Sheet|5x Lizard Scale|5x Murlok Plate|5x Murlok Scale
+Warleader's Gauntlets;1x Mithril Sheet|4x Murlok Plate|3x Murlok Scale|1x Warleader's Plate
+Shellmail;1x Mithril Sheet|5x Turtle Shell|1x Wild Shell|4x Murlok Scale
+Genbu's Plate;1x Turtle Platemail|10x Murlok Scale|5x Water Crystal|1x Genbu's Shell
+Adaman Sheet;2x Adaman Chunk
+Adaman Greaves;2x Adaman Sheet
+Adaman Bracers;2x Adaman Sheet
+Adaman Helm;2x Adaman Sheet|1x Adaman Chunk
+Adaman Chainmail;3x Adaman Sheet|1x Cashmere Thread
+Adaman Sabatons;3x Adaman Sheet
+Adaman Gauntlets;3x Adaman Sheet
+Ram Bracers;1x Adaman Sheet|4x Ram Fur
+Ram Greaves;1x Adaman Sheet|4x Ram Fur
+Adaman Great Helm;1x Adaman Sheet|1x Adaman Chunk
+Gnoll Sabatons;1x Adaman Sabatons|5x Gnoll Plate|2x Gnoll Fur
+Gnoll Gauntlets;1x Adaman Gauntlets|5x Gnoll Plate|2x Gnoll Fur
+Adaman Platemail;1x Adaman Sheet|1x Adaman Chunk
+Ram Helm;1x Adaman Sheet|3x Adaman Chunk|5x Ram Fur
+Gnoll Greaves;1x Adaman Greaves|5x Gnoll Plate|3x Gnoll Fur
+Gnoll Bracers;1x Adaman Bracers|5x Gnoll Plate|3x Gnoll Fur
+Gnoll Great Helm;1x Adaman Great Helm|2x Adaman Chunk|6x Gnoll Plate|3x Gnoll Fur
+Ram Chainmail;1x Adaman Sheet|1x Cashmere Cloth|7x Ram Fur
+Fighters Greaves;1x Adaman Greaves|5x Gnoll Plate|4x Gnoll Fur|1x Reygar's Plate
+Gnoll Helm;1x Adaman Helm|2x Adaman Chunk|5x Gnoll Plate|4x Gnoll Fur
+Gnoll Platemail;1x Adaman Platemail|3x Adaman Chunk|7x Gnoll Plate|4x Gnoll Fur
+Gnoll Chainmail;1x Adaman Chainmail|1x Cashmere Cloth|7x Gnoll Plate|5x Gnoll Fur
+Ares' Helm;1x Adaman Helm|5x Adaman Chunk|1x Ares' Fur|1x Ares' Horn
+Ares' Bracers;1x Adaman Bracers|7x Ram Fur|1x Ares' Fur
+Titan's Guard;1x Gnoll Chainmail|10x Gnoll Fur|5x Earth Crystal|1x Alkyoneus' Cloth
+Magnotaur's Greaves;1x Gnoll Greaves|10x Gnoll Fur|5x Earth Crystal|1x Magnotaur's Hide
+Darksteel Sheet;2x Darksteel Chunk
+Darksteel Bracers;1x Darksteel Sheet
+Darksteel Greaves;1x Darksteel Sheet
+Darksteel Helm;1x Darksteel Sheet|1x Darksteel Chunk
+Darksteel Chainmail;1x Darksteel Sheet|1x Necro Thread
+Darksteel Sabatons;1x Darksteel Sheet
+Darksteel Gauntlets;1x Darksteel Sheet
+Scorpion Gauntlets;1x Darksteel Gauntlets|3x Scorpion Shell
+Scorpion Sabatons;1x Darksteel Sabatons|3x Scorpion Shell
+Darksteel Great Helm;1x Darksteel Sheet|1x Darksteel Chunk
+Undead Greaves;1x Darksteel Greaves|2x Darksteel Chunk|5x Undead Plate|1x Skeleton Skull
+Darksteel Platemail;1x Darksteel Sheet|1x Darksteel Chunk
+Scorpion Great Helm;1x Darksteel Great Helm|2x Darksteel Chunk|4x Scorpion Shell
+Undead Bracers;1x Darksteel Bracers|2x Darksteel Chunk|5x Undead Plate|1x Skeleton Skull
+Scorpion Platemail;1x Darksteel Platemail|2x Darksteel Chunk|5x Scorpion Shell
+Undead Helm;1x Darksteel Helm|2x Darksteel Chunk|5x Undead Plate|2x Skeleton Skull
+Scorpinox's Bracers;1x Darksteel Bracers|7x Scorpion Shell|4x Skeleton Skull|1x Scorpinox Shell
+Undead Chainmail;1x Darksteel Chainmail|1x Necro Cloth|7x Undead Plate|3x Skeleton Skull
+King's Guard;1x Darksteel Platemail|7x Skeleton Skull|1x Serket's Shell|1x Arthus' Skull
+Arthus' Gauntlets;1x Darksteel Gauntlets|10x Undead Plate|5x Skeleton Skull|1x Arthus' Skull
+Serket's Treads;1x Darksteel Greaves|10x Scorpion Shell|5x Skeleton Skull|1x Serket's Shell
+Shadow Gauntlets;1x Scorpion Gauntlets|10x Skeleton Skull|5x Necro Crystal|1x Shadow Cloth
+Magma Sheet;2x Magma Chunk
+Magma Sabatons;1x Magma Sheet
+Magma Greaves;1x Magma Sheet|2x Magma Chunk
+Magma Gauntlets;1x Magma Sheet
+Magma Bracers;1x Magma Sheet|2x Magma Chunk
+Dragon Sabatons;1x Magma Sabatons|6x Crimson Scale|3x Grimhal Ash
+Dragon Gauntlets;1x Magma Gauntlets|6x Crimson Scale|3x Grimhal Ash
+Dragon Greaves;1x Magma Greaves|2x Magma Chunk|6x Crimson Scale|3x Grimhal Ash
+Dragon Bracers;1x Magma Bracers|2x Magma Chunk|6x Crimson Scale|3x Grimhal Ash
+Magma Helm;1x Magma Sheet|2x Magma Chunk
+Magma Great Helm;1x Magma Sheet
+Dragon Great Helm;1x Magma Great Helm|8x Crimson Scale|4x Grimhal Ash
+Magma Platemail;1x Magma Sheet|2x Magma Chunk
+Magma Chainmail;1x Magma Sheet|2x Magma Thread
+Dragon Helm;1x Magma Helm|2x Magma Chunk|8x Crimson Scale|4x Grimhal Ash
+Demon Bracers;1x Magma Bracers|2x Magma Chunk|6x Demon Heart|3x Demon Claw
+Demon Gauntlets;1x Magma Gauntlets|6x Demon Heart|4x Demon Horn|5x Grimhal Ash
+Dragon Platemail;1x Magma Platemail|10x Crimson Scale|5x Grimhal Ash|1x Crimson Wing
+Dragon Chainmail;1x Magma Chainmail|10x Crimson Scale|5x Grimhal Ash|1x Crimson Wing
+Demon Sabatons;1x Magma Sabatons|6x Demon Heart|4x Demon Horn|5x Grimhal Ash
+Demon Greaves;1x Magma Greaves|2x Magma Chunk|6x Demon Heart|3x Demon Claw
+Molten Shackles;1x Dragon Bracers|8x Molten Plate|5x Molten Chain|5x Grimhal Ash
+Demon Great Helm;1x Magma Great Helm|8x Demon Heart|5x Demon Horn|7x Grimhal Ash
+Demon Helm;1x Magma Helm|2x Magma Chunk|8x Demon Heart|4x Demon Claw
+Molten Platemail;1x Magma Platemail|8x Molten Core|7x Grimhal Ash|2x Fire Crystal
+Demon Chainmail;1x Magma Chainmail|10x Demon Heart|5x Demon Claw|3x Fire Crystal
+Demon Platemail;1x Magma Platemail|10x Demon Heart|6x Demon Horn|3x Fire Crystal
+Elder Demon Gauntlets;1x Demon Gauntlets|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Bracers;1x Demon Bracers|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Greaves;1x Demon Greaves|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Gauntlets;1x Dragon Gauntlets|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Sabatons;1x Dragon Sabatons|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Greaves;1x Dragon Greaves|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Bracers;1x Dragon Bracers|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Elder Demon Sabatons;1x Demon Sabatons|1x Magma Sheet|5x Black Dragon Scale|3x Fire Crystal
+Black Dragon Great Helm;1x Dragon Great Helm|1x Magma Sheet|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Helm;1x Demon Helm|1x Magma Sheet|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Great Helm;1x Demon Great Helm|1x Magma Sheet|6x Black Dragon Scale|4x Fire Crystal
+Black Dragon Helm;1x Dragon Helm|1x Magma Sheet|6x Black Dragon Scale|4x Fire Crystal
+Elder Demon Chainmail;1x Demon Chainmail|1x Magma Sheet|7x Black Dragon Scale|5x Fire Crystal
+Elder Demon Platemail;1x Demon Platemail|1x Magma Sheet|7x Black Dragon Scale|5x Fire Crystal
+Black Dragon Chainmail;1x Dragon Chainmail|1x Magma Sheet|7x Black Dragon Scale|5x Fire Crystal
+Black Dragon Platemail;1x Dragon Platemail|1x Magma Sheet|7x Black Dragon Scale|5x Fire Crystal
+Fang Knife;1x Iron Ingot|2x Snake Fang
+Boar Sword;1x Iron Ingot|1x Iron Ore|2x Boar Tusk
+Iron Axe;1x Iron Ingot|1x Ashe Log
+Fang Hatchet;1x Iron Ingot|1x Ashe Log|1x Snake Fang
+Goblin Sword;1x Iron Ingot|2x Goblin Blade
+Goblin Hatchet;1x Iron Ingot|2x Ashe Log|3x Goblin Blade
+Venoms Knife;1x Iron Ingot|4x Snake Fang|1x Venom's Fang
+Chieftains Longsword;1x Iron Ingot|2x Iron Ore|4x Goblin Blade|1x Chieftain's Blade
+Bloody Axe;1x Iron Axe|5x Goblin Blade|1x Chieftain's Blade|1x Maexna's Leg
+Mithril Ingot;2x Mithril Ore
+Mithril Dagger;1x Mithril Ingot
+Mithril Sword;1x Mithril Ingot|1x Mithril Ore
+Mithril Hatchet;1x Mithril Ingot|1x Willow Log
+Mithril Knife;1x Mithril Ingot
+Mithril Longsword;1x Mithril Ingot|1x Mithril Ore
+Mithril Axe;1x Mithril Ingot|1x Willow Log
+Turtle Sword;1x Mithril Ingot|1x Mithril Ore|1x Turtle Claw
+Lizard Dagger;1x Mithril Ingot|3x Lizard Fang
+Lizard Sword;1x Mithril Ingot|3x Lizard Fang
+Murlok Knife;1x Mithril Ingot|1x Mithril Ore|3x Murlok Blade
+Murlok Longsword;1x Mithril Ingot|2x Mithril Ore|4x Murlok Blade
+Lizard Hatchet;1x Mithril Ingot|1x Willow Log|4x Lizard Fang
+Water Spellsword;1x Mithril Ingot|2x Mithril Ore|3x Water Crystal
+Thief's Knife;1x Mithril Ingot|1x Mithril Ore|3x Murlok Blade|1x Tidehunter's Blade
+Basamus Sword;1x Lizard Sword|2x Mithril Ore|5x Lizard Fang|1x Basamus' Claw
+Leviathan's Bite;1x Water Spellsword|10x Murlok Scale|5x Water Crystal|1x Azure Fang
+Seastone Trident;1x Turtle Sword|10x Murlok Scale|5x Water Crystal|1x Genbu's Jewel
+Adaman Ingot;2x Adaman Ore
+Adaman Dagger;1x Adaman Ingot
+Adaman Sword;1x Adaman Ingot|1x Adaman Ore
+Adaman Knife;1x Adaman Ingot
+Adaman Hatchet;1x Adaman Ingot|1x Oak Log
+Adaman Longsword;1x Adaman Ingot|1x Adaman Ore
+Ram Knife;1x Adaman Knife|4x Ram Horn
+Adaman Axe;1x Adaman Ingot|1x Oak Log
+Ram Sword;1x Adaman Sword|2x Adaman Ore|4x Ram Horn
+Gnoll Knife;1x Adaman Knife|4x Gnoll Blade|2x Earth Crystal
+Gnoll Longsword;1x Adaman Longsword|2x Adaman Ore|5x Gnoll Blade|3x Earth Crystal
+Earthen Spellsword;1x Water Spellsword|1x Adaman Ingot|7x Earth Crystal
+Ram Hatchet;1x Adaman Hatchet|1x Oak Log|5x Ram Horn
+Ceros' Knife;1x Ram Knife|6x Ram Horn|1x Ceros' Horn
+Terros' Blade;1x Ram Sword|6x Worm Fang|1x Terros' Fang
+Battlelord's Blade;1x Gnoll Longsword|7x Adaman Ore|3x Overlord's Blade|1x Ares' Horn
+Orous Blade;1x Terros' Blade|1x Ceros' Knife|2x Overlord's Blade|4x Earth Crystal
+Darksteel Ingot;2x Darksteel Ore
+Darksteel Dagger;1x Darksteel Ingot
+Darksteel Sword;1x Darksteel Ingot|1x Darksteel Ore
+Darksteel Knife;1x Darksteel Ingot
+Darksteel Hatchet;1x Darksteel Ingot|1x Deadwood Log
+Darksteel Longsword;1x Darksteel Ingot|1x Darksteel Ore
+Darksteel Axe;1x Darksteel Ingot|1x Deadwood Log
+Undead Knife;1x Darksteel Knife|4x Undead Blade|2x Skeleton Skull
+Beast Sword;1x Darksteel Sword|2x Darksteel Ore|4x Beast Fang
+Undead Longsword;1x Darksteel Longsword|2x Darksteel Ore|5x Undead Blade|2x Skeleton Skull
+Beast Hatchet;1x Darksteel Hatchet|2x Deadwood Log|5x Beast Fang
+Necro Knife;1x Undead Knife|2x King's Blade|7x Necro Crystal
+Necro Longsword;1x Undead Longsword|2x King's Blade|7x Necro Crystal
+King's Edge;1x Undead Longsword|7x Undead Blade|5x Skeleton Skull|1x King's Blade
+Necro Spellsword;1x Earthen Spellsword|15x Necro Crystal
+Twin Shadows;1x Undead Knife|10x Skeleton Skull|5x Necro Crystal|1x Shadow Blade
+Oni's Decapitator;1x Undead Longsword|10x Skeleton Skull|5x Necro Crystal|1x Oni's Blade
+Soul Stealer;1x Necro Knife|5x Skeleton Skull
+Nightfall;1x King's Edge|1x Necro Longsword|8x Necro Crystal
+Magma Ingot;2x Magma Ore
+Magma Dagger;1x Magma Ingot|2x Magma Ore
+Magma Sword;1x Magma Ingot|2x Magma Ore
+Magma Knife;1x Magma Ingot|2x Magma Ore
+Dragon Knife;1x Magma Knife|8x Crimson Claw|2x Fire Crystal|5x Grimhal Ash
+Magma Hatchet;1x Magma Ingot|2x Magma Log
+Magma Longsword;1x Magma Ingot|2x Magma Ore
+Dragon Longsword;1x Magma Longsword|9x Crimson Claw|3x Fire Crystal|6x Grimhal Ash
+Demon Knife;1x Magma Knife|8x Demon Horn|2x Demon Claw|4x Fire Crystal
+Magma Axe;1x Magma Ingot|2x Magma Log
+Dragon Axe;1x Magma Axe|10x Crimson Claw|3x Fire Crystal|1x Crimson Wing
+Twilight;1x Nightfall|10x King's Blade|5x Necro Crystal|1x Arthus' Skull
+Demon Longsword;1x Magma Longsword|9x Demon Horn|3x Demon Claw|5x Fire Crystal
+Demon Axe;1x Magma Axe|10x Demon Horn|3x Demon Claw|6x Fire Crystal
+Hellguard's Dirk;1x Demon Knife|6x Cerberus' Fang|4x Fire Crystal
+Blk Dragon Knife;1x Dragon Knife|1x Magma Ingot|7x Black Dragon Fang|6x Fire Crystal
+Elder Demon Knife;1x Demon Knife|1x Magma Ingot|7x Elder Demon Claw|6x Fire Crystal
+Blk Dragon Longsword;1x Dragon Longsword|1x Magma Ingot|8x Black Dragon Fang|7x Fire Crystal
+Elder Demon Longsword;1x Demon Longsword|1x Magma Ingot|8x Elder Demon Claw|7x Fire Crystal
+Blk Dragon Axe;1x Dragon Axe|1x Magma Ingot|9x Black Dragon Fang|8x Fire Crystal
+Ridill;1x Blk Dragon Longsword|12x Black Dragon Fang|2x Fafnir's Fang|10x Fire Crystal
+Balmung;1x Blk Dragon Knife|12x Black Dragon Fang|2x Fafnir's Fang|10x Fire Crystal
+Blazing Falchion;1x Necro Spellsword|30x Fire Crystal
+Elder Demon Axe;1x Demon Axe|1x Magma Ingot|9x Elder Demon Claw|8x Fire Crystal
+Chieftain's Necklace;1x Iron Sheet|2x Hempen Thread|1x Chieftain's Blade|2x Emerald
+Maexna's Trinket;1x Iron Sheet|1x Iron Ore|1x Maexna's Leg|2x Emerald
+Sapphire;4x Water Crystal
+Murlok Earring;1x Mithril Ingot|2x Silk Thread|2x Murlok Scale|1x Sapphire
+Lizard Trinket;1x Mithril Sheet|1x Mithril Ore|4x Lizard Fang|1x Sapphire
+Tidehunter's Pendant;1x Silk Cloth|1x Mithril Chunk|1x Tidehunter's Blade|2x Sapphire
+Priest's Necklace;1x Mithril Sheet|2x Silk Thread|1x High Priest's Cloth|2x Sapphire
+Basamus' Ring;1x Mithril Ingot|1x Mithril Chunk|1x Basamus' Claw|1x Sapphire
+Seastone Pendant;1x Azure Scale|1x Azure Fang|5x Water Crystal|5x Sapphire
+Genbu's Ring;1x Genbu's Shell|1x Genbu's Jewel|5x Water Crystal|5x Sapphire
+Abyss Earring;1x Kraken's Tentacle|1x Kraken's Beak|5x Water Crystal|5x Sapphire
+Topaz;4x Earth Crystal
+Worm Pendant;1x Cashmere Cloth|1x Adaman Sheet|4x Worm Fang|1x Topaz
+Gnoll Earring;1x Adaman Ingot|2x Cashmere Thread|2x Gnoll Fur|1x Topaz
+Overlord's Trinket;1x Adaman Sheet|1x Adaman Ore|1x Overlord's Blade|2x Topaz
+Kaldar's Necklace;1x Adaman Sheet|2x Cashmere Thread|1x Kaldar's Fur|2x Topaz
+Ares' Ring;1x Adaman Ingot|1x Adaman Chunk|1x Ares' Fur|2x Topaz
+Kirin's Earring;1x Kirin's Hide|1x Kirin's Horn|5x Earth Crystal|5x Topaz
+Titan's Earring;1x Alkyoneus' Cloth|1x Alkyoneus' Tooth|5x Earth Crystal|5x Topaz
+Amethyst;4x Necro Crystal
+Scorpion Ring;1x Darksteel Ingot|1x Darksteel Chunk|4x Scorpion Shell|2x Amethyst
+Beast Earring;1x Darksteel Ingot|2x Necro Thread|4x Beast Fang|2x Amethyst
+Undead Pendant;1x Necro Cloth|1x Darksteel Chunk|2x Skeleton Skull|2x Amethyst
+Antares' Trinket;1x Darksteel Sheet|1x Darksteel Ore|1x Antares' Stinger|2x Amethyst
+Stalker's Necklace;1x Darksteel Sheet|2x Necro Thread|1x Stalker's Fur|2x Amethyst
+Shadow Earring;1x Shadow Blade|1x Shadow Cloth|5x Necro Crystal|5x Amethyst
+Oni's Earring;1x Oni's Fang|1x Oni's Blade|5x Necro Crystal|5x Amethyst
+Hel's Earring;1x Spectral Cloth|1x Hel's Blade|5x Necro Crystal|5x Amethyst
+Ruby;4x Fire Crystal
+Dragon Ring;1x Magma Ingot|1x Magma Chunk|4x Crimson Claw|2x Ruby
+Demon Earring;1x Magma Ingot|2x Magma Thread|4x Demon Claw|2x Ruby
+Guardian's Trinket;1x Magma Sheet|1x Magma Ore|4x Molten Plate|2x Ruby
+Phoenix's Necklace;1x Magma Sheet|2x Magma Thread|4x Phoenix Feather|2x Ruby
+Cerberus' Pendant;1x Magma Cloth|1x Magma Chunk|4x Cerberus' Fang|2x Ruby
+Hempen Cloth;2x Hempen Thread
+Hempen Gloves;1x Hempen Cloth
+Hempen Boots;1x Hempen Cloth
+Hempen Hood;1x Hempen Cloth|1x Hempen Thread
+Hempen Tunic;1x Hempen Cloth|1x Iron Chunk
+Spider Mitts;1x Hempen Cloth|2x Spider Silk
+Hempen Crakows;1x Hempen Cloth
+Hempen Mitts;1x Hempen Cloth
+Spider Crakows;1x Hempen Cloth|2x Spider Silk
+Spider Hat;1x Hempen Cloth|1x Hempen Thread|3x Spider Silk
+Hempen Hat;1x Hempen Cloth|1x Hempen Thread
+Hempen Robe;1x Hempen Cloth|1x Hempen Thread
+Goblin Crakows;1x Hempen Cloth|1x Hempen Thread|2x Goblin Cloth
+Scale Hood;1x Hempen Cloth|1x Hempen Thread|3x Snake Scale
+Goblin Mitts;1x Hempen Cloth|1x Hempen Thread|2x Goblin Cloth
+Spider Robe;1x Hempen Cloth|1x Hempen Thread|4x Spider Silk
+Ranger Boots;1x Hempen Cloth|2x Spider Silk|2x Snake Scale
+Goblin Hat;1x Hempen Cloth|2x Hempen Thread|3x Goblin Cloth
+Scale Tunic;1x Hempen Cloth|1x Iron Chunk|4x Snake Scale
+Goblin Robe;1x Hempen Cloth|2x Hempen Thread|4x Goblin Cloth
+Siru's Hat;1x Hempen Cloth|2x Hempen Thread|4x Goblin Cloth|1x Siru's Cloth
+Gronok's Tunic;1x Hempen Tunic|2x Iron Chunk|5x Goblin Cloth|1x Gronok's Plate
+Spider Wand;1x Ashe Lumber|2x Spider Leg
+Ashe Mystic Stave;1x Ashe Lumber|1x Ashe Log
+Boar Club;1x Ashe Lumber|1x Iron Ore|2x Boar Tusk
+Goblin Wand;1x Ashe Lumber|2x Goblin Hilt
+Goblin Cudgel;1x Ashe Lumber|1x Iron Ore|2x Goblin Blade|2x Goblin Hilt
+Spider Stave;1x Ashe Lumber|1x Ashe Log|3x Spider Leg
+Maexna's Mystic Wand;1x Ashe Lumber|2x Ashe Log|4x Spider Leg|1x Maexna's Leg
+Goblin Mystic Stave;1x Ashe Lumber|2x Ashe Log|3x Goblin Hilt
+Bloody Club;1x Ashe Club|6x Spider Leg|1x Chieftain's Blade|1x Maexna's Leg
+Willow Lumber;2x Willow Log
+Willow Wand;1x Willow Lumber
+Willow Club;1x Willow Lumber|1x Mithril Ore
+Willow Stave;1x Willow Lumber|1x Willow Log
+Willow Mystic Wand;1x Willow Lumber
+Willow Cudgel;1x Willow Lumber|1x Mithril Ore
+Murlok Mystic Wand;1x Willow Lumber|1x Willow Log|3x Murlok Hilt
+Turtle Club;1x Willow Lumber|1x Mithril Ore|3x Turtle Claw
+Willow Mystic Stave;1x Willow Lumber|1x Willow Log
+Murlok Club;1x Willow Lumber|1x Mithril Ore|4x Murlok Hilt
+Murlok Rod;1x Willow Lumber|1x Mithril Ore|3x Murlok Hilt|3x Murlok Blade
+Lizard Cudgel;1x Willow Lumber|2x Mithril Ore|2x Murlok Hilt|2x Lizard Fang
+Tidecaller's Wand;1x Willow Lumber|2x Willow Log|5x Murlok Hilt|1x Tidecaller's Hilt
+Murlok Pole;1x Willow Lumber|2x Mithril Ore|3x Murlok Hilt|3x Murlok Blade
+Demonlisher's Mace;1x Murlok Club|1x Mithril Ingot|1x Nami's Hilt|1x Prime Fang
+Priest's Stave;1x Murlok Pole|2x Willow Log|7x Murlok Hilt|1x Nami's Hilt
+Seastone Scepter;1x Murlok Pole|10x Murlok Scale|5x Water Crystal|1x Kraken's Beak
+Oak Lumber;2x Oak Log
+Oak Wand;1x Oak Lumber
+Oak Club;1x Oak Lumber|1x Adaman Ore
+Oak Mystic Wand;1x Oak Lumber
+Oak Stave;1x Oak Lumber|1x Oak Log
+Oak Cudgel;1x Oak Lumber|1x Adaman Ore
+Worm Wand;1x Oak Wand|4x Worm Fang
+Oak Mystic Stave;1x Oak Lumber|1x Oak Log
+Gnoll Mystic Wand;1x Oak Mystic Wand|4x Gnoll Hilt|3x Earth Crystal
+Ram Stave;1x Oak Stave|1x Oak Log|5x Ram Horn
+Gnoll Cudgel;1x Oak Cudgel|1x Adaman Ingot|5x Gnoll Hilt|4x Earth Crystal
+Worm Stave;1x Oak Stave|1x Oak Log|5x Worm Fang
+Ceros' Stave;1x Worm Stave|7x Ram Horn|1x Ceros' Horn
+Gnoll Mystic Stave;1x Oak Mystic Stave|2x Oak Log|6x Gnoll Hilt|3x Earth Crystal
+Terros' Wand;1x Worm Wand|7x Worm Fang|1x Terros' Fang
+Ares' Stave;1x Ram Stave|5x Oak Log|7x Ram Horn|1x Ares' Horn
+Overlord's Cudgel;1x Gnoll Cudgel|1x Adaman Ingot|7x Gnoll Hilt|1x Overlord's Blade
+Titan Breaker;1x Gnoll Cudgel|10x Gnoll Fur|5x Earth Crystal|1x Alkyoneus' Tooth
+Overlord's Pole;1x Gnoll Mystic Stave|1x Gnoll Mystic Wand|2x Overlord's Blade|4x Gnoll Fur
+Orous Pole;1x Ceros' Stave|1x Terros' Wand|2x Overlord's Blade|4x Earth Crystal
+Kirin's Wand;1x Gnoll Mystic Wand|10x Gnoll Fur|5x Earth Crystal|1x Kirin's Horn
+Champion's Maul;1x Overlord's Cudgel|1x Overlord's Pole|7x Earth Crystal|7x Gnoll Fur
+Deadwood Lumber;2x Deadwood Log
+Deadwood Wand;1x Deadwood Lumber
+Deadwood Club;1x Deadwood Lumber|1x Darksteel Ore
+Deadwood Stave;1x Deadwood Lumber|1x Deadwood Log
+Deadwood Mystic Wand;1x Deadwood Lumber
+Deadwood Cudgel;1x Deadwood Lumber|1x Darksteel Ore
+Deadwood Mystic Stave;1x Deadwood Lumber|1x Deadwood Log
+Scorpion Wand;1x Deadwood Wand|3x Scorpion Leg
+Undead Mystic Wand;1x Deadwood Mystic Wand|4x Undead Hilt|2x Skeleton Skull
+Undead Cudgel;1x Deadwood Cudgel|1x Darksteel Ingot|5x Undead Hilt|2x Skeleton Skull
+Scorpion Cudgel;1x Deadwood Cudgel|2x Darksteel Ore|4x Scorpion Leg
+Undead Mystic Stave;1x Deadwood Mystic Stave|1x Deadwood Log|5x Undead Hilt|3x Skeleton Skull
+Necro Mystic Wand;1x Undead Mystic Wand|2x King's Blade|7x Necro Crystal
+Antares' Rod;1x Scorpion Wand|7x Scorpion Leg|5x Skeleton Skull|1x Antares' Stinger
+Necro Cudgel;1x Undead Cudgel|2x King's Blade|7x Necro Crystal
+Antares Crusher;1x Scorpion Cudgel|7x Scorpion Leg|2x Antares' Stinger
+Necro Mystic Stave;1x Undead Mystic Stave|2x King's Blade|7x Necro Crystal
+Hel's Scythe;1x Undead Mystic Stave|10x Skeleton Skull|5x Necro Crystal|1x Hel's Blade
+Death Dancer;1x Necro Mystic Wand|5x Skeleton Skull
+Death Singer;1x Necro Mystic Stave|5x Skeleton Skull
+Serket's Maul;1x Antares Crusher|1x Antares' Rod|2x Serket's Shell
+Magma Lumber;2x Magma Log
+Magma Wand;1x Magma Lumber|2x Magma Log
+Magma Club;1x Magma Lumber|2x Magma Ore
+Magma Stave;1x Magma Lumber|2x Magma Log
+Magma Mystic Wand;1x Magma Lumber|2x Magma Log
+Dragon Mystic Wand;1x Magma Mystic Wand|8x Crimson Claw|2x Fire Crystal|5x Grimhal Ash
+Magma Cudgel;1x Magma Lumber|2x Magma Ore
+Demon Mystic Wand;1x Magma Mystic Wand|8x Demon Horn|5x Demon Fire|4x Fire Crystal
+Magma Mystic Stave;1x Magma Lumber|2x Magma Log
+Dragon Mystic Stave;1x Magma Mystic Stave|10x Crimson Claw|3x Fire Crystal|1x Crimson Wing
+Nemesis;1x Necro Mystic Wand|1x Necro Cudgel|1x Necro Mystic Stave|2x Arthus' Skull
+Demon Cudgel;1x Magma Cudgel|9x Demon Horn|5x Demon Fire|5x Fire Crystal
+Inferno Wand;1x Dragon Mystic Wand|8x Phoenix Ash|4x Grimhal Ash|4x Fire Crystal
+Demon Mystic Stave;1x Magma Mystic Stave|10x Demon Horn|6x Demon Fire|6x Fire Crystal
+Elder Demon Wand;1x Demon Mystic Wand|1x Magma Lumber|7x Elder Demon Claw|6x Fire Crystal
+Blk Dragon Wand;1x Dragon Mystic Wand|1x Magma Lumber|7x Black Dragon Fang|6x Fire Crystal
+Elder Demon Cudgel;1x Demon Cudgel|1x Magma Lumber|8x Black Dragon Fang|7x Fire Crystal
+Blk Dragon Stave;1x Dragon Mystic Stave|1x Magma Lumber|9x Black Dragon Fang|8x Fire Crystal
+Elder Demon Stave;1x Demon Mystic Stave|1x Magma Lumber|9x Elder Demon Claw|8x Fire Crystal
+Laevateinn;1x Elder Demon Stave|12x Elder Demon Claw|3x Arkyos' Horn|10x Fire Crystal
+Skorge's Pitchfork;1x Elder Demon Stave|12x Elder Demon Claw|2x Skorge's Blade|10x Fire Crystal
+Claustrum;1x Elder Demon Wand|10x Elder Demon Claw|2x Arkyos' Horn|9x Fire Crystal
+Gnoll Tunic;1x Cashmere Tunic|1x Adaman Ingot|7x Gnoll Cloth|5x Gnoll Fur
+Fafnir's Tunic;1x Black Dragon Tunic|12x Black Dragon Scale|3x Fafnir's Wing|10x Fire Crystal
+Murlok Axe;1x Mithril Ingot|1x Willow Lumber|5x Murlok Blade
+Prime Battleaxe;1x Lizard Hatchet|1x Willow Lumber|5x Lizard Fang|1x Prime Fang
+Gnoll Axe;1x Adaman Axe|1x Oak Lumber|6x Gnoll Blade|4x Earth Crystal
+Overlord's Battleaxe;1x Gnoll Axe| 1x Oak Lumber|7x Gnoll Blade|1x Overlord's Blade
+Mjolnir;1x Gnoll Cudgel|10x Gnoll Fur|5x Earth Crystal|1x Magnotaur's Hoove
+Lord's Cleaver;1x Overlord's Battleaxe|1x Battlelord's Blade|8x Overlord's Blade|8x Gnoll Fur
+Orous Spear;1x Orous Blade|1x Orous Pole|7x Earth Crystal|1x Ares' Horn
+Undead Axe;1x Darksteel Axe|1x Deadwood Lumber|5x Undead Blade|3x Skeleton Skull
+Undertaker;1x Lord's Cleaver|10x Necro Crystal|2x Arthus' Skull
+Necro Axe;1x Undead Axe|2x King's Blade|7x Necro Crystal
+Soul Reaper;1x Necro Axe|5x Skeleton Skull
+Apocalypse;1x Necro Knife|1x Necro Longsword|1x Necro Axe|2x Arthus' Skull
+Neptune's Trident;1x Seastone Trident|1x Seastone Scepter|1x Seastone Pendant|1x Water Crystal
+Goblin Pendant;2x Hempen Cloth|1x Iron Chunk|3x Goblin Plate|1x Emerald
+Turtle Medallion;1x Willow Lumber|1x Willow Log|4x Turtle Claw|1x Sapphire
+Ram Medallion;1x Oak Lumber|1x Oak Log|4x Ram Horn|1x Topaz
+King's Medallion;1x Deadwood Lumber|1x Deadwood Log|1x King's Blade|2x Amethyst
+Lava Medallion;1x Magma Lumber|1x Magma Log|4x Molten Core|2x Ruby
+Dragon Cudgel;1x Magma Cudgel|9x Crimson Claw|3x Fire Crystal|6x Grimhal Ash
+Molten Flail;1x Dragon Cudgel|7x Molten Chain|4x Grimhal Ash|3x Fire Crystal
+Blk Dragon Cudgel;1x Dragon Cudgel|1x Magma Lumber|8x Black Dragon Fang|7x Fire Crystal

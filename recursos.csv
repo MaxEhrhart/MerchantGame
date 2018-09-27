@@ -1,0 +1,160 @@
+Nome;Preço de Venda;Tempo de Venda;Inimigos possiveis;Local
+Ashe Log;3;~8s;Forest Treant;Tuvale Forest
+Ashe Root;3;~8s;Forest Gathering;Tuvale Forest
+Boar Fur;7;~15s;Wild Boar, Hogger;Tuvale Forest
+Boar Tusk;9;~20s;Wild Boar, Hogger;Tuvale Forest
+Chieftain's Blade;40;~1m;Goblin Chieftain, Lord Gronok;Tuvale Forest
+Emerald;65;~1m20s;Others;Tuvale Forest
+Forest Crystal;40;~50s;Others;Tuvale Forest
+Goblin Blade;11;~20s;Goblin Footman, Grok, Goblin Chieftain, Lord Gronok;Tuvale Forest
+Goblin Cloth;8;~15s;Goblin Enchanter, Siru;Tuvale Forest
+Goblin Hilt;11;~20s;Goblin Enchanter, Siru;Tuvale Forest
+Goblin Plate;8;~15s;Goblin Footman, Grok, Goblin Chieftain, Lord Gronok;Tuvale Forest
+Gronok's Plate;85;~1m30s;Lord Gronok;Tuvale Forest
+Hempen Thread;3;~8s;Forest Treant;Tuvale Forest
+Hogger's Fur;50;~1m30s;Hogger;Tuvale Forest
+Iron Chunk;3;~8s;Moss Golem;Tuvale Forest
+Iron Ore;3;~8s;Moss Golem;Tuvale Forest
+Maexna's Leg;63;~1m30s;Maexna, Queen Maexna;Tuvale Forest
+Nature Rune;55;~1m5s;Others;Tuvale Forest
+Siru's Cloth;60;~1m30s;Siru;Tuvale Forest
+Snake Fang;8;~20s;Tuvale Viper, Venom;Tuvale Forest
+Snake Scale;6;~15s;Tuvale Viper, Venom;Tuvale Forest
+Spider Leg;8;~20s;Grass Spider, Arachne, Maexna, Queen Maexna;Tuvale Forest
+Spider Silk;6;~15s;Grass Spider, Arachne, Maexna, Queen Maexna;Tuvale Forest
+Tuvale Moss;3;~8s;Forest Gathering;Tuvale Forest
+Venom's Fang;45;~1m30s;Venom;Tuvale Forest
+Azure Fang;155;~3m15s;Laviathan;Yarsol Cove
+Azure Scale;155;~3m15s;Laviathan;Yarsol Cove
+Basamus' Claw;85;~3m45s;Basamus, Basamus Prime;Yarsol Cove
+Coral Moss;6;~15s;Yarsol Gathering;Yarsol Cove
+Genbu's Jewel;155;~3m15s;Genbu;Yarsol Cove
+Genbu's Shell;155;~3m15s;Genbu;Yarsol Cove
+High Priest's Cloth;60;~3m45s;Murlok Highpriest, Prophet Nami;Yarsol Cove
+Kraken's Beak;155;~3m15s;Kraken;Yarsol Cove
+Kraken's Tentacle;155;~3m15s;Kraken;Yarsol Cove
+Leaping Scale;85;~2m30s;Leaping Lizzy;Yarsol Cove
+Lizard Fang;16;~25s;Sand Lizard, Leaping Lizzy, Basamus, Basamus Prime;Yarsol Cove
+Lizard Scale;14;~15s;Sand Lizard, Leaping Lizzy, Basamus, Basamus Prime;Yarsol Cove
+Mithril Chunk;6;~15s;Coral Giant;Yarsol Cove
+Mithril Ore;6;~15s;Coral Giant;Yarsol Cove
+Murlok Blade;16;~25s;Murlok Spearman, Murlok Warleader, Murlok Assassin;Yarsol Cove
+Murlok Cloth;12;~25s;Murlok Priest, Murlok Tidecaller, Murlok Assassin, Murlok Highpriest;Yarsol Cove
+Murlok Hilt;14;~25s;Murlok Priest, Murlok Tidecaller, Murlok Assassin, Murlok Highpriest;Yarsol Cove
+Murlok Plate;14;~15s;Murlok Spearman, Murlok Warleader;Yarsol Cove
+Murlok Scale;28;~25s;Murlok Priest, Murlok Tidecaller, Murlok Spearman, Murlok Warleader, Murlok Assassin, Murlok Tidehunter, Murlok Highpriest, Prophet Nami, Kraken, Leviathan, Genbu;Yarsol Cove
+Nami's Hilt;115;~3m45s;Prophet Nami;Yarsol Cove
+Prime Fang;135;~3m45s;Basamus Prime;Yarsol Cove
+Sapphire;100;~1m15s;Others;Yarsol Cove
+Silk Thread;6;~15s;Water Willow;Yarsol Cove
+Tidecaller's Hilt;85;~2m30s;Murlok Tidecaller;Yarsol Cove
+Tidehunter's Blade;85;~3m45s;Murlok Tidehunter;Yarsol Cove
+Turtle Claw;14;~25s;Yarsol Snapper, Wild Turtle;Yarsol Cove
+Turtle Shell;12;~25s;Yarsol Snapper, Wild Turtle;Yarsol Cove
+Warleader's Plate;85;~3m45s;Murlok Warleader;Yarsol Cove
+Water Crystal;65;~1m5s;Others;Yarsol Cove
+Water Rune;85;~50s;Others;Yarsol Cove
+Wild Shell;85;~2m30s;Wild Turtle;Yarsol Cove
+Willow Log;6;~15s;Water Willow;Yarsol Cove
+Willow Root;6;~15s;Yarsol Gathering;Yarsol Cove
+Adaman Chunk;12;~20s;Highland Titan;Aldur Highlands
+Adaman Ore;12;~20s;Highland Titan;Aldur Highlands
+Alkyoneus' Cloth;195;~4m30s;Alkyoneus;Aldur Highlands
+Alkyoneus' Tooth;195;~4m30s;Alkyoneus;Aldur Highlands
+Ares' Fur;85;~2m30s;Ares, Ares Prime;Aldur Highlands
+Ares' Horn;175;~4m;Ares Prime;Aldur Highlands
+Cashmere Thread;12;~20s;Aldur Guardian;Aldur Highlands
+Ceros' Horn;125;~3m30s;Ceros;Aldur Highlands
+Drahgar's Fur;150;~3m30s;Drahgar;Aldur Highlands
+Earth Crystal;95;~50s;Others;Aldur Highlands
+Earth Rune;120;~1m10s;Others;Aldur Highlands
+Gnoll Blade;20;~35s;Gnoll Hunter, Reygar;Aldur Highlands
+Gnoll Cloth;17;~35s;Gnoll Shaman, Kaldar;Aldur Highlands
+Gnoll Fur;43;~45s;Gnoll Hunter, Reygar, Gnoll Shaman, Kaldar, Gnoll Overlord, Drahgar, Kirin, Alkyoneus;Aldur Highlands
+Gnoll Hilt;20;~35s;Gnoll Shaman, Kaldar;Aldur Highlands
+Gnoll Plate;17;~35s;Gnoll Hunter, Reygar;Aldur Highlands
+Highland Moss;9;~20s;Aldur Gathering;Aldur Highlands
+Kaldar's Fur;125;~3m30s;Kaldar;Aldur Highlands
+Kirin's Hide;195;~4m30s;Kirin;Aldur Highlands
+Kirin's Horn;195;~4m30s;Kirin;Aldur Highlands
+Magnotaur's Hide;195;~4m30s;Magnotaur;Aldur Highlands
+Magnotaur's Hoove;195;~4m30s;Magnotaur;Aldur Highlands
+Oak Log;12;~20s;Aldur Guardian;Aldur Highlands
+Oak Root;9;~20s;Aldur Gathering;Aldur Highlands
+Overlord's Blade;85;~2m30s;Gnoll Overlord, Drahgar;Aldur Highlands
+Ram Fur;15;~35s;Aldur Ram, Ceros, Ares, Ares Prime;Aldur Highlands
+Ram Horn;17;~35s;Aldur Ram, Ceros, Ares, Ares Prime;Aldur Highlands
+Reygar's Plate;125;~3m30s;Reygar;Aldur Highlands
+Terros' Fang;125;~3m30s;Terros;Aldur Highlands
+Topaz;135;~1m40s;Others;Aldur Highlands
+Worm Fang;17;~35s;Highland Tunneler, Terros;Aldur Highlands
+Worm Silk;15;~35s;Highland Tunneler, Terros;Aldur Highlands
+Altor's Cloth;163;~2m30s;Altor;Vulkrum Badlands
+Amethyst;220;~3m;Others;Vulkrum Badlands
+Antares' Stinger;125;~3m;Antares, Serket;Vulkrum Badlands
+Arthus' Skull;225;~4m30s;Arthus;Vulkrum Badlands
+Badlands Moss;11;~20s;Vulkrum Gathering;Vulkrum Badlands
+Beast Fang;15;~25s;Beast, Night Stalker;Vulkrum Badlands
+Beast Fur;15;~25s;Beast, Night Stalker;Vulkrum Badlands
+Darksteel Chunk;14;~20s;Dark Colossus;Vulkrum Badlands
+Darksteel Ore;14;~20s;Dark Colossus;Vulkrum Badlands
+Deadwood Log;14;~20s;Haunted Harwood;Vulkrum Badlands
+Deadwood Root;11;~20s;Vulkrum Gathering;Vulkrum Badlands
+Death Rune;188;~2m15s;Others;Vulkrum Badlands
+Hel's Blade;275;~5m;Hel;Vulkrum Badlands
+King's Blade;125;~3m;Lich King;Vulkrum Badlands
+Necro Crystal;145;~1m15s;Others;Vulkrum Badlands
+Necro Thread;14;~20s;Haunted Harwood;Vulkrum Badlands
+Oni's Blade;275;~5m;Oni;Vulkrum Badlands
+Oni's Fang;275;~5m;Oni;Vulkrum Badlands
+Scorpinox Shell;163;~2m30s;Scorpinox;Vulkrum Badlands
+Scorpion Leg;15;~25s;Nightmare Scorpion, Anteres, Scorpinox, Serket;Vulkrum Badlands
+Scorpion Shell;15;~25s;Nightmare Scorpion, Anteres, Scorpinox, Serket;Vulkrum Badlands
+Serket's Shell;225;~4m30s;Serket;Vulkrum Badlands
+Shadow Blade;275;~5m;Twin Shadow;Vulkrum Badlands
+Shadow Cloth;275;~5m;Twin Shadow;Vulkrum Badlands
+Skeleton Skull;75;~1m15s;Warrior, Mage, King, Altor, Skeletor, Oni, Hel, Twin Shadow;Vulkrum Badlands
+Spectral Cloth;275;~5m;Hel;Vulkrum Badlands
+Stalker's Fur;163;~2m30s;Night Stalker;Vulkrum Badlands
+Undead Blade;17;~25s;Warrior, Lich King, Skeltor, Arthus;Vulkrum Badlands
+Undead Cloth;17;~25s;Mage, Altor;Vulkrum Badlands
+Undead Hilt;17;~25s;Mage, Altor;Vulkrum Badlands
+Undead Plate;17;~25s;Warrior, Lich King, Skeltor, Arthus;Vulkrum Badlands
+Arkyos' Horn;85;~1m30s;Arkyos;Grimhal Volcano
+Arkyos' Wing;85;~1m30s;Arkyos;Grimhal Volcano
+Cerberus' Fur;50;~53s;Ceberus;Grimhal Volcano
+Cerberus' Fang;50;~53s;Ceberus;Grimhal Volcano
+Demon Fire;70;~1m30s;Demon Mage;Grimhal Volcano
+Demon Claw;70;~1m30s;Demon Warrior;Grimhal Volcano
+Demon Horn;50;~1m30s;Demon Warrior, Demon Mage;Grimhal Volcano
+Demon Heart;30;~38s;Demon Warrior, Demon Mage;Grimhal Volcano
+Crimson Claw;23;~38s;Dragon Whelp, Fire Wyrm;Grimhal Volcano
+Crimson Scale;23;~38s;Dragon Whelp, Fire Wyrm;Grimhal Volcano
+Crimson Wing;70;~1m55s;Dragon Whelp, Fire Wyrm;Grimhal Volcano
+Fafnir's Wing;85;~1m30s;Fafnir;Grimhal Volcano
+Fafnir's Fang;85;~1m30s;Fafnir;Grimhal Volcano
+Black Dragon Scale;55;~53s;Fafnir, Fatalis;Grimhal Volcano
+Black Dragon Fang;55;~53s;Fafnir, Fatalis;Grimhal Volcano
+Fatalis' Horn;85;~1m30s;Fatalis;Grimhal Volcano
+Fatalis' Crest;85;~1m30s;Fatalis;Grimhal Volcano
+Ozai's Chain;85;~1m30s;Firelord Ozai;Grimhal Volcano
+Ozai's Plate;85;~1m30s;Firelord Ozai;Grimhal Volcano
+Lava Root;14;~38s;Grimhal Gathering;Grimhal Volcano
+Lava Moss;14;~38s;Grimhal Gathering;Grimhal Volcano
+Molten Plate;30;~38s;Infernal Guardian, Firelord Ozai;Grimhal Volcano
+Molten Chain;30;~38s;Infernal Guardian, Firelord Ozai;Grimhal Volcano
+Molten Core;23;~38s;Lavabeast;Grimhal Volcano
+Grimhal Ash;23;~38s;Lavabeast;Grimhal Volcano
+Magma Chunk;17;~38s;Molten Giant;Grimhal Volcano
+Magma Ore;17;~38s;Molten Giant;Grimhal Volcano
+Ruby;263;~3m;Others;Grimhal Volcano
+Fire Crystal;163;~1m45s;Others;Grimhal Volcano
+Fire Rune;225;~2m15s;Others;Grimhal Volcano
+Phoenix Ash;50;~53s;Phoenix;Grimhal Volcano
+Phoenix Feather;50;~53s;Phoenix;Grimhal Volcano
+Skorge's Scale;85;~1m30s;Skorge;Grimhal Volcano
+Skorge's Blade;85;~1m30s;Skorge;Grimhal Volcano
+Elder Demon Claw;55;~53s;Skorge, Arkyos;Grimhal Volcano
+Elder Demon Scale;55;~53s;Skorge, Arkyos;Grimhal Volcano
+Magma Thread;17;~38s;Volcanic Lumberer;Grimhal Volcano
+Magma Log;17;~38s;Volcanic Lumberer;Grimhal Volcano

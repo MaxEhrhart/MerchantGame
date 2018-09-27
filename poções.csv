@@ -1,0 +1,113 @@
+########################################################################################################
+ALCHEMIST
+########################################################################################################
+Minor Potion	
+2	Tuvale Moss
+2	Ashe Root
+
+Lesser Potion	
+2	Tuvale Moss
+2	Ashe Root
+
+Greater Potion	
+2	Coral Moss
+2	Willow Root
+
+Major Potion	
+2	Coral Moss
+2	Willow Root
+
+Minor Potion +1	
+2	Highland Moss
+2	Oak Root
+
+Lesser Potion +1	
+2	Highland Moss
+2	Oak Root
+
+Greater Potion +1
+2	Badlands Moss
+2	Deadwood Root
+
+Major Potion +1	
+2	Badlands Moss	35	55 G	90 - 120 G	+ 180 HP
+2	Deadwood Root
+
+Greater Flask	
+2	Lava Moss
+2	Lava Root
+
+Major Flask	
+2	Lava Moss
+2	Lava Root
+
+Combine: Lesser Potion + 2 Forest Crystals + Specific
+4	Tuvale Moss	-10% Quest timers for 3 Quests.	80 G	200 - 300 G
+4	Ashe Root	+ 30% Experience for 3 Quests.	80 G	200 - 300 G
+3	Snake Fang	+ 5 Atk for 3 Quests.	50 G	70 - 100 G
+3	Spider Leg	+ 5 Matk for 3 Quests.	50 G	70 - 100 G
+3	Snake Scale	+ 5 Acc for 3 Quests.	50 G	70 - 100 G
+3	Boar Fur	+ 5 Def for 3 Quests.	50 G	70 - 100 G
+3	Spider Silk	+ 5 Mdef for 3 Quests.	50 G	70 - 100 G
+
+Level 26
+Combine: Lesser Potion +1 + 2 Earth Crystals + Specific
+Item	Craft	Effect	Cost	Sell
+Icon	Name	Icon	Num	Name
+Speed Boost 1
+Speed Boost +1	
+Highland Moss
+4	Highlands Moss	-20% Quest timers for 3 Quests.	200 G	300 - 400 G
+XP Boost 1
+XP Boost +1	
+Oak Root
+4	Oak Root	+ 60% Experience for 3 Quests.	200 G	300 - 400 G
+Level 30
+Combine: Lesser Potion +1 + 2 Earth Crystals + Specific
+Item	Craft	Effect	Cost	Sell
+Icon	Name	Icon	Num	Name
+Str Boost
+Str Boost	
+Ram Horn
+3	Ram Horn	+ 2 Str for 3 Quests.	200 G	250 - 300 G
+Int Boost
+Int Boost	
+Gnoll Hilt
+3	Gnoll Hilt	+ 2 Int for 3 Quests.	200 G	250 - 300 G
+Dex Boost
+Dex Boost	
+Gnoll Blade
+3	Gnoll Blade	+ 2 Dex for 3 Quests.	200 G	250 - 300 G
+Def Boost 1
+Def Boost +1	
+Ram Fur
+3	Ram Fur	+ 15 Def for 3 Quests.	200 G	250 - 300 G
+Mdef Boost 1
+Mdef Boost +1	
+Worm Silk
+3	Worm Silk	+ 15 Mdef for 3 Quests.	200 G	250 - 300 G
+Enchant Potions
+The Alchemist can provide you with potions to boost your Heroes' stats permanently. There is no level requirement for a Hero to use a potion. There are 10 potions that can be crafted, five are unlocked at level 10 and 5 at level 30. 8 of these potions (12 after Prestige) can be used on a Hero total. Listed below are the items you can craft:
+
+Combine: Major Potion + 5 Water Crystals + Specific
+Lizard Fang
+3	Lizard Fang	+ 1 Atk	150 G	250 - 300 G
+Murlok Hilt
+3	Murlok Hilt	+ 1 Matk	150 G	250 - 300 G
+Murlok Blade
+3	Murlok Blade	+ 1 Acc	150 G	250 - 300 G
+Turtle Shell
+3	Turtle Shell	+ 1 Def	150 G	250 - 300 G
+3	Murlok Cloth	+ 1 Mdef	150 G	250 - 300 G
+Combine: Major Potion +1 + 2 Necro Crystals + Specific
+Undead Blade
+3	Undead Blade	+ 0.1 Atk/lvl	300 G	350 - 400 G
+Undead Hilt
+3	Undead Hilt	+ 0.1 MAtk/lvl	300 G	350 - 400 G
+Beast Fang
+3	Beast Fang	+ 0.1 Acc/lvl	300 G	350 - 400 G
+Undead Plate
+3	Undead Plate	+ 0.1 Def/lvl	300 G	350 - 400 G
+Scorpion Shell
+3	Scorpion Shell	+ 0.1 Mdef/lvl	300 G	350 - 400 G
+
