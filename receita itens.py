@@ -2,14 +2,18 @@
 from collections import namedtuple, Iterable
 from operator import itemgetter
 from itertools import groupby
-from sys import exit
+from sys import exit, version_info
 
-CAMINHO_RECURSOS=r"D:\Desktop\python_merchant\recursos.csv"
-CAMINHO_EQUIPAMENTOS_E_MATERIAIS=r"D:\Desktop\python_merchant\equipamentos.csv"
+
+CAMINHO_RECURSOS=r"./recursos.csv"
+CAMINHO_EQUIPAMENTOS_E_MATERIAIS=r"./equipamentos.csv"
 Item = namedtuple("Item", ["nome", "tipo", "receita"])
 # nome = nome do item.
 # tipo = "Recurso" ou "Equipamento/Material".
 # receita = lista items necessarios para criação do item, se recurso, None.
+
+if version_info > (3, 0):
+    raw_input = input
 
 
 def flatten(l):

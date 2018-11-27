@@ -1,0 +1,165 @@
+Recursos Orous Spear:
+    07x Adaman Ore
+    21x Ram Horn
+    22x Worm Fang
+    02x Terros' Fang
+    02x Ceros' Horn
+    04x Overlord's Blade
+    15x Earth Crystal
+    06x Oak Log
+    01x Ares' Horn
+
+
+Receita Orous Spear:
+1x Orous Spear
+    1x Orous Blade
+        1x Terros' Blade
+            1x Ram Sword
+                1x Adaman Sword
+                    1x Adaman Ingot
+                        1x Adaman Ore
+                        1x Adaman Ore
+                    1x Adaman Ore
+                1x Adaman Ore
+                1x Adaman Ore
+                1x Ram Horn
+                1x Ram Horn
+                1x Ram Horn
+                1x Ram Horn
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Terros' Fang
+        1x Ceros' Knife
+            1x Ram Knife
+                1x Adaman Knife
+                    1x Adaman Ingot
+                        1x Adaman Ore
+                        1x Adaman Ore
+                1x Ram Horn
+                1x Ram Horn
+                1x Ram Horn
+                1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ceros' Horn
+        1x Overlord's Blade
+        1x Overlord's Blade
+        1x Earth Crystal
+        1x Earth Crystal
+        1x Earth Crystal
+        1x Earth Crystal
+    1x Orous Pole
+        1x Ceros' Stave
+            1x Worm Stave
+                1x Oak Stave
+                    1x Oak Lumber
+                        1x Oak Log
+                        1x Oak Log
+                    1x Oak Log
+                1x Oak Log
+                1x Worm Fang
+                1x Worm Fang
+                1x Worm Fang
+                1x Worm Fang
+                1x Worm Fang
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ram Horn
+            1x Ceros' Horn
+        1x Terros' Wand
+            1x Worm Wand
+                1x Oak Wand
+                    1x Oak Lumber
+                        1x Oak Log
+                        1x Oak Log
+                1x Worm Fang
+                1x Worm Fang
+                1x Worm Fang
+                1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Worm Fang
+            1x Terros' Fang
+        1x Overlord's Blade
+        1x Overlord's Blade
+        1x Earth Crystal
+        1x Earth Crystal
+        1x Earth Crystal
+        1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Earth Crystal
+    1x Ares' Horn
+Orous Spear
++---Orous Blade
+    +---Terros' Blade
+        +---Ram Sword
+            +---Adaman Sword
+                +---Adaman Ingot
+['Adaman Ore']
+                        1x Adaman Ore
+['Adaman Ore']
+                    1x Adaman Ore
+['Ram Horn']
+                1x Ram Horn
+["Terros' Fang"]
+            1x Terros' Fang
+    +---Ceros' Knife
+        +---Ram Knife
+            +---Adaman Knife
+                +---Adaman Ingot
+['Adaman Ore']
+                        1x Adaman Ore
+['Ram Horn']
+                1x Ram Horn
+["Ceros' Horn"]
+            1x Ceros' Horn
+['Earth Crystal']
+        1x Earth Crystal
++---Orous Pole
+    +---Ceros' Stave
+        +---Worm Stave
+            +---Oak Stave
+                +---Oak Lumber
+['Oak Log']
+                        1x Oak Log
+['Oak Log']
+                    1x Oak Log
+['Worm Fang']
+                1x Worm Fang
+["Ceros' Horn"]
+            1x Ceros' Horn
+    +---Terros' Wand
+        +---Worm Wand
+            +---Oak Wand
+                +---Oak Lumber
+['Oak Log']
+                        1x Oak Log
+['Worm Fang']
+                1x Worm Fang
+["Terros' Fang"]
+            1x Terros' Fang
+['Earth Crystal']
+        1x Earth Crystal
+["Ares' Horn"]
+    1x Ares' Horn
